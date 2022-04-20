@@ -1,0 +1,97 @@
+Id,Ano,Título,Detetive,Personagens Principais,tipo de morte,CEP,Local Assassinato,Motivo
+1,1939,And Then There Were None,0,,"J, Q, I, A, S, L",inglaterra,Ilha,"Vingança, Prazer"
+2,1944,Death Comes as the End,0,,"J, H, A, R, B",egito,Quarto,Prazer
+3,1967,Endless Night,0,,"J, H, I","Alemanha, inglaterra",Quarto,"Amor, Passional"
+4,1951,They Came to Baghdad,0,,K,iraque,Hotel,Inimigos
+5,1939,Murder is easy,3,,"J, A",inglaterra,,Vingança
+6,1925,The Secret of Chimneys,3,,S,franca,Hotel,
+7,1929,The Seven Dials Mystery,3,,"J, S",inglaterra,Festa,
+8,1944,Towards Zero,3,,"M, C",,Hotel,Medo
+9,1924,Adventure of the Italian Nobleman,6,,"J, M",,Hotel,Dinheiro
+10,1953,After the Funeral,6,,Q,inglaterra,Quarto,Dinheiro
+11,1938,Appointment with Death,6,,J,israel,Arlivre,Medo
+12,1936,Cards on the Table,6,"5,3,1","J, K, A, S",inglaterra,Festa,Acobertar
+13,1959,Cat Among the Pigeons,6,,"M, S","oriente medio, inglaterra","Arlivre, Internato","Dinheiro, Passional"
+14,1975,Curtain,6,2,"J, S",inglaterra,Hotel,Passional
+15,1956,Dead Man s Folly,6,1,"I, A",inglaterra,Hotel,"Dinheiro, Medo"
+16,1937,Dead Mans Mirror,6,,S,inglaterra,Quarto,"Amor, Dinheiro"
+17,1935,Death in the Clouds,6,4,J,"frança, inglaterra",Trem,Dinheiro
+18,1937,Death on the Nile,6,5,"K, S",egito,Navio,"Dinheiro, Amor"
+19,1937,Dumb Witness,6,2,J,inglaterra,Quarto,Dinheiro
+20,1972,Elephants Can Remember,6,1,"H, S","inglaterra, suica",Arlivre,Passional
+21,1941,Evil Under the Sun,6,6,I,inglaterra,"Praia, Hotel",Medo
+22,1942,Five Little Pigs,6,,J,inglaterra,Quarto,Vingança
+23,1950,Four and Twenty Blackbirds,6,,H,inglaterra,Quarto,Vingança
+24,1969,Halloween Party,6,1,"K, I, A, C ",inglaterra,"Festa, Biblioteca","Amor, Medo"
+25,1938,Hercule Poirot s Christmas,6,,F,,Quarto,Vingança
+26,1955,Hickory Dickory Dock,6,,"J, M",,Hotel,Medo
+27,1939,How Does Your Garden Grow?,6,,J,inglaterra,Quarto,Dinheiro
+28,1933,Lord Edgware Dies,6,"2,4","J, K",inglaterra,"Festa, Quarto",Vingança
+29,1952,Mrs McGinty s Dead,6,1,"M, I",inglaterra,Quarto,Medo
+30,1936,Murder in Mesopotamia,6,,"J, M",iraque,Quarto,Vingança
+31,1937,Murder in the Mews,6,,S,inglaterra,Quarto,
+32,1934,Murder on the Orient Express,6,,K,oriente medio,Trem,Vingança
+33,1940,One two Buckle my shoe,6,4,"P, M, S",inglaterra,Consultorio,"Dinheiro, Medo"
+34,1932,Peril at End House,6,"2,4",S,inglaterra,Hotel,Dinheiro
+35,1939,Problem at Sea,6,,J,egito,Navio,
+36,1940,Sad Cypress,6,,J,,Quarto,Dinheiro
+37,1948,Taken at the Flood,6,,J,inglaterra,Quarto,"Amor, Dinheiro"
+38,1936,The ABC Murders,6,"2,4","K, M, I ",franca,"Praia, Arlivre, Rua","Vingança, Aleatório"
+39,1951,The Adventure of the Clapham Cook,6,,S,inglaterra,Banco,Acobertar
+40,1924,The Adventure of the Egyptian Tomb,6,,J,"egito, inglaterra",,Dinheiro
+41,1951,The Affair at the Victory Ball,6,,J,inglaterra,Festa,Medo
+42,1963,The Clocks,6,,"J, K, N",inglaterra,Quarto,"Dinheiro, Acobertar"
+43,1951,The Cornish Mystery,6,,J,inglaterra,Quarto,Dinheiro
+44,1939,The Dream,6,,S,inglaterra,Quarto,Amor
+45,1947,The Lernean Hydra,6,,J,inglaterra,Quarto,Ciume
+46,1926,The Murder of Roger Ackroyd,6,,K,inglaterra,Quarto,"Medo, Acobertar"
+47,1923,The Murder on the Links,6,2,K,"franca, inglaterra",Arlivre,Dinheiro
+48,1920,The Mysterious Affair at Styles,6,"2,4",J,inglaterra,Quarto,Dinheiro
+49,1924,The Mystery of Hunter s Lodge,6,,S,inglaterra,Quarto,Dinheiro
+50,1928,The Mystery of the Blue Train,6,,N,franca,Trem,
+51,1951,The Plymouth Express,6,,K,inglaterra,Trem,Acobertar
+52,1974,The Third-Floor Flat,6,,S,,Quarto,"Medo, Amor"
+53,1924,The Tragedy at Marsdon Manor,6,,S,inglaterra,Arlivre,Dinheiro
+54,1951,The Under Dog,6,,Q,inglaterra,Quarto,Passional
+55,1966,Third Girl,6,1,"K, H",inglaterra,Quarto,Medo
+56,1934,Three Act Tragedy,6,,J,inglaterra,Festa,Amor
+57,1937,Triangle at Rhodes,6,,J,inglaterra,Hotel,Amor
+58,1957,4.50 from Paddington,8,7,"J, I",escocia,Trem,"Amor, Dinheiro"
+59,1964,A Caribbean Mystery,8,12,"Q, S",caribe,Ilha,
+60,1932,A Christmas Tragedy,8,,J,inglaterra,Spa,Dinheiro
+61,1950,A Murder is Announced,8,7,"I, S",inglaterra,Quarto,"Dinheiro, Acobertar"
+62,1953,A Pocket Full of Rye,8,,"I, S","inglaterra, kenya",Quarto,"Dinheiro, Acobertar"
+63,1965,At Bertram s Hotel,8,,S,inglaterra,Hotel,Medo
+64,1932,Death by Drowning,8,,A,,Lago,Amor
+65,1960,Greenshaw s Folly,8,,"J, B",inglaterra,Quarto,Dinheiro
+66,1932,Motive v Opportunity,8,,J,inglaterra,Quarto,Dinheiro
+67,1971,Nemesis,8,12,"J, I, L",inglaterra,Quarto,Ciume
+68,1976,Sleeping Murder,8,,N,inglaterra,Quarto,Ciume
+69,1932,The Blood stained Pavement,8,,Q,inglaterra,Praia,Dinheiro
+70,1932,The Blue Geranium,8,13,R,inglaterra,Quarto,Amor
+71,1942,The Body in the Library,8,13,"N, E",inglaterra,Biblioteca,
+72,1932,The Four Suspects,8,,H,"Alemanha, inglaterra",Quarto,
+73,1932,The Herb of Death,8,,J,inglaterra,Festa,Ciume
+74,1932,The Idol House of Astarte,8,,K,inglaterra,Quarto,Amor
+75,1962,The Mirror Cracked from Side to Side,8,7,"J, S",inglaterra,Quarto,Passional
+76,1942,The Moving Finger,8,,J,inglaterra,Quarto,Amor
+77,1930,The Murder at the Vicarage,8,,S,inglaterra,Quarto,Amor
+78,1932,The Thumb Mark of St Peter,8,,J,inglaterra,Quarto,Vingança
+79,1932,The Tuesday Night Club,8,,J,inglaterra,Quarto,Amor
+80,1952,They Do It with Mirrors,8,,"S, J ",inglaterra,Quarto,Medo
+81,1930,Harlequin s Lane,9,14,K,inglaterra,Festa,
+82,1930,The Bird with the Broken Wing,9,14,I,inglaterra,Quarto,Passional
+83,1930,The Voice in the Dark,9,14,A,"franca, inglaterra",Banheira,Dinheiro
+84,1929,Finessing the King,10,,K,inglaterra,Boate,Dinheiro
+85,1941,N or M,10,,S,inglaterra,Hotel,Vingança
+86,1929,The House of Lurking Death,10,,J,inglaterra,Quarto,Dinheiro
+87,1929,The Man in the Mist,10,,M,inglaterra,Quarto,Vingança
+88,1934,Accident,11,,"J, H",inglaterra,Quarto,Amor
+89,1949,Crooked House,11,,J,"inglaterra, egito",Quarto,Passional
+90,1958,Ordeal by Innocence,11,,K,,Quarto,"Amor, Dinheiro"
+91,1945,Sparking Cyanide,11,,J,franca,Festa,Dinheiro
+92,1934,The Gate of Baghdad,11,,K,iraque,Carro,Medo
+93,1924,The Man in the Brown Suit,11,,"K, G","inglaterra, africa do sul",Navio,Dinheiro
+94,1961,The Pale Horse,11,,"J, M",inglaterra,,Aleatório
+95,1931,The Sittaford Mystery,11,,M,inglaterra,Quarto,
+96,1934,Why Did not They ask Evans,11,,"H, S, F",escocia,Arlivre,

@@ -1,0 +1,107 @@
+Id,Ano,Título,Detetive,Personagens Principais,tipo de morte,Sexo do morto,CEP,Local Assassinato
+100,1957,4.50 from Paddington,Miss Maple,"Miss Maple, Lucy Eyelesbarrow, Inspector Craddock","Veneno, Enforcamento","homem, mulher",Inglaterra,"Trem, Casa"
+101,1964,A Caribbean Mystery,Miss Maple,Miss Maple,"Pancada na cabeça, arma de fogo",homem,Caribe,Ilha
+102,1932,A Christmas Tragedy,Miss Maple,Miss Maple,Veneno,mulher,,Casa
+103,1950,A Murder is Announced,Miss Maple,"Miss Maple, Inspector Craddock","Enforcamento, tiro",mulher,Inglaterra,Casa
+104,1953,A Pocket Full of Rye,Miss Maple,"Miss Maple, Inspector Neele","Enforcamento, tiro",homen,,Casa
+105,1934,Accident,outro,Inspector Evans,"envenenamento por arsenio, empurrando",homem,Inglaterra,Vila
+106,1924,Adventure of the Italian Nobleman,Hercule Poirot,Hercule Poirot,"envenenamento, espancamento",homem,,Casa
+107,1953,After the Funeral,Hercule Poirot,Hercule Poirot,Pancada na cabeça,homem,Inglaterra,Casa
+108,1939,And Then There Were None,outro,,"Veneno, pancada na cabeça, enforcamento, afogamento, tiro, esmagamento","homem, mulher",Inglaterra,Ilha
+109,1938,Appointment with Death,Hercule Poirot,Hercule Poirot,Veneno,mulher,Jerusalém,Ar livre
+110,1965,At Bertram’s Hotel,Miss Maple,"Miss Maple, Fred Davy",Tiro,homem,Inglaterra,Hotel
+111,1968,By the Pricking of My Thumbs,Tommy e Tuppence,Tommy e Tuppence,Veneno,"homem, mulher",,Asilo
+112,1936,Cards on the Table,Hercule Poirot,"Hercule Poirot, Coronel Race, Superintendnte Battle, Ariadne Oliver","Veneno, esfaqueamento, afogamento, tiro","homem, mulher",,Festa
+113,1959,Cat Among the Pigeons,Hercule Poirot,"Hercule Poirot, Adam Goodman, Inspector Kelsey","Espancamento, tiro",mulher,,Internato
+114,1949,Crooked House,Taverner,"Taverner, Josephine Leonides, Charles Hayward",Veneno,homem,Inglaterra,Casa
+115,1975,Curtain,Hercule Poirot,"Hercule Poirot, Arthur Hastings","Veneno, tiro","homem, mulher",Inglaterra,
+116,1956,Dead Man’s Folly,Hercule Poirot,"Hercule Poirot, Ariadne Oliver, Inspector Bland","enforcamento, afogogamento",mulher,Inglaterra,Casa
+117,1937,Dead Man’s Mirror,Hercule Poirot,Hercule Poirot,tiro,homem,,Casa
+118,1932,Death by Drowning,Miss Maple,Miss Maple,afogamento,mulher,,lago
+119,1944,Death Comes as the End,Outro,,"Veneno, empurrando, afogamento, sufocamento, arco e flecha","homem, mulher",Egito,
+120,1935,Death in the Clouds,Hercule Poirot,"Hercule Poirot, chief Inspector Japp",envenenamento por cianeto,mulher,,Trem
+121,1937,Death on the Nile,Hercule Poirot,"Hercule Poirot, Coronel Race","Esfaqueamento, tiro",mulher,Egito,Navio
+122,1937,Dumb Witness,Hercule Poirot,"Hercule Poirot, Arthur Hastings",envenenamento,mulher,Inglaterra,Casa
+123,1939,Easy to Kill,Battle,"Luke Fitzwilliam, Bridget Conway","Veneno, afogamento","homem, mulher",Inglaterra,
+124,1972,Elephants Can Remember,Hercule Poirot,"Hercule Poirot, Ariadne Oliver","empurrando, tiro","homem, mulher",,ar livre
+125,1967,Endless Night,Outro,-,"Veneno, empurrando, enforcamento","homem, mulher",,casa
+126,1941,Evil Under the Sun,Hercule Poirot,"Hercule Poirot, Coronel Eston, Inspector Colgate",enforcamento,mulher,,praia
+127,1929,Finessing the King,Tommy e Tuppence,Tommy e Tuppence,esfaqueamento,mulher,,boate
+128,1942,Five Little Pigs,Hercule Poirot,Hercule Poirot,veneno,homem,,
+129,1950,Four and Twenty Blackbirds,Hercule Poirot,Hercule Poirot,empurrando,homem,Inglaterra,
+130,1960,Greenshaw’s Folly,Miss Maple,Miss Maple,"veneno, arco e flecha",mulher,Inglaterra,Casa
+131,1969,Hallowe’en Party,Hercule Poirot,"Hercule Poirot, Ariadne Oliver","esfaqueamento, enforcamento, afogamento, ataque de coração ","mulher, homem",-,festa
+132,1930,Harlequin’s Lane,Mr. Quin,Mr. Quin,esfaqueamento,mulher,,festa
+133,1938,Hercule Poirot’s Christmas,Hercule Poirot,Hercule Poirot,garganta cortata,homem,,casa
+134,1955,Hickory Dickory Dock,Hercule Poirot,Hercule Poirot,"Veneno, espancamento","homem, mulher",,Hotel
+135,1939,How Does Your Garden Grow?,Hercule Poirot,Hercule Poirot,envenenamento por estricnina,mulher,,
+136,1939,In a Glass Darkly,Miss Maple,Miss Maple,enforcamento,mulher,,casa
+137,1933,Lord Edgware Dies,Hercule Poirot,"Hercule Poirot, Arthur Hastings, Chief Inspector Japp","veneno, esfaqueamento","homem, mulher",,casa
+138,1939,Miss Marple Tells a Story,Miss Maple,Miss Maple,esfaqueamento,mulher,,hotel
+139,1932,Motive vs. Opportunity,Miss Maple,Miss Maple,veneno,homem,,casa
+140,1952,Mrs McGinty’s Dead,Hercule Poirot,"Hercule Poirot, Ariadne Oliver","espancamento, enforcamento",mulher,,casa
+141,1936,Murder in Mesopotamia,Hercule Poirot,Hercule Poirot,"Veneno, espancamento",mulher,Iraque,
+142,1937,Murder in the Mews,Hercule Poirot,Hercule Poirot,tiro,mulher,,casa
+143,1934,Murder on the Orient Express,Hercule Poirot,Hercule Poirot,esfaqueamento,homem,,Trem
+144,1941,N or M?,Tommy e Tuppence,Tommy e Tuppence,tiro,homem,,hotel
+145,1971,Nemesis,Miss Maple,Miss Maple,"veneno, enforcamento, esmagamento","homem, mulher",,
+146,1940,One – two – Buckle my shoe,Hercule Poirot,"Hercule Poirot, chief Inspector Japp","overdose de anestesia, espancamento, tiro",homem,,consultório
+147,1958,Ordeal by Innocence,Arthur Cagalry,"Arthur Cagalry, Philip Durrant, Inspector Huish",esfaqueamento,homem,,
+148,1970,Passenger to Frankfurt,outro,-,tiro,mulher,,trem
+149,1932,Peril at End House,Hercule Poirot,"Hercule Poirot, Arthur Hastings, Chief Inspector Japp",tiro,mulher,,
+150,1973,Postern of Fate,Tommy e Tuppence,Tommy e Tuppence,"Veneno, espancamento","mulher,homem",Inglaterra,
+151,1939,Problem at Sea,Hercule Poirot,Hercule Poirot,envenenamento,mulher,Egito,navio
+152,1940,Sad Cypress,Hercule Poirot,Hercule Poirot,veneno,mulher,,casa
+153,1976,Sleeping Murder,Miss Maple,"Miss Maple, Gwenda Reed, Giles Reed",estrangulamento,mulher,,casa
+154,1945,Sparking Cyanide,Coronel Race,"Anthony Bowne, George Barton, Coronel Race",veneno,"homem, mulher",,
+155,1948,Taken at the Flood,Hercule Poirot,Hercule Poirot,veneno,mulher,Inglaterra,
+156,1950,Tape-Measure Murder,Miss Maple,Miss Maple,enforcamento,mulher,,casa
+157,1936,The ABC Murders,Hercule Poirot,"Hercule Poirot, Arthur Hastings, Chief Inspector Japp, Inspector Crome","esfaqueamento, espancamento, enforcamento ","homem, mulher",,
+158,1951,The Adventure of the Clapham Cook,Hercule Poirot,Hercule Poirot,tiro,homem,,banco
+159,1924,The Adventure of the Egyptian Tomb,Hercule Poirot,Hercule Poirot,envenenamento,homem,Egito,
+160,1951,The Affair at the Victory Ball,Hercule Poirot,Hercule Poirot,envenenamento,homem,,festa
+161,1927,The Big Four,Hercule Poirot,"Hercule Poirot, Arthur Hastings","veneno, eletrocução, corte garganta, atropelamento","homem, mulher",,
+162,1930,The Bird with the Broken Wing,Mr. Quin,Mr. Quin,enforcamento,mulher,,casa
+163,1932,The Blood-stained Pavement,Miss Maple,Miss Maple,batida na cabeça,mulher,,mar
+164,1932,The Blue Geranium,Miss Maple,Miss Maple,sufocamento por gás,mulher,,casa
+165,1942,The Body in the Library,Miss Maple,Miss Maple,"estrangulamento, carbonizado",mulher,,biblioteca
+166,1963,The Clocks,Hercule Poirot,"Hercule Poirot, Colin Lamb, Inspector Hardcastle","veneno, esfaqueamento, estrangulamento","homem,mulher",,casa
+167,1951,The Cornish Mystery,Hercule Poirot,Hercule Poirot,envenenamento,mulher,,
+168,1939,The Dream,Hercule Poirot,Hercule Poirot,tiro,homem,,
+169,1932,The Four Suspects,Miss Maple,Miss Maple,empurrado,homem,,
+170,1934,The Gate of Baghdad,Parker Pyne,Parker Pyne,esfaqueamento,homem,,
+171,1932,The Herb of Death,Miss Maple,Miss Maple,envenenamento,mulher,,
+172,1946,The Hollow,Hercule Poirot,Hercule Poirot,"veneno, tiro",homem,,piscina
+173,1929,The House of Lurking Death,Tommy e Tuppence,Tommy e Tuppence,envenenamento,"mulher, homem",,
+174,1932,The Idol House of Astarte,Miss Maple,Miss Maple,esfaqueamento,homem,,
+175,1947,The Lernean Hydra,Hercule Poirot,Hercule Poirot,envenenamento,mulher,,
+176,1924,The Man in the Brown Suit,Anne Beddingfeld,Anne Beddingfeld,"esfaqueamento, eletrocução",homem,,metro
+177,1929,The Man in the Mist,Tommy e Tuppence,Tommy e Tuppence,espancamento,mulher,,
+178,1962,The Mirror Crack’d from Side to Side,Miss Maple,"Miss Maple, Inspector Craddock","veneno, tiro",mulher,,casa
+179,1942,The Moving Finger,Miss Maple,"Miss Maple, Jerry Burton",veneno,mulher,,
+180,1930,The Murder at the Vicarage,Miss Maple,"Miss Maple, Leonard Clement",tiro,homem,,casa
+181,1926,The Murder of Roger Ackroyd,Hercule Poirot,Hercule Poirot,esfaqueado nas costas,homem,,casa
+182,1923,The Murder on the Links,Hercule Poirot,"Hercule Poirot, Arthur Hastings",esfaqueamento,homem,França,ar livre
+183,1920,The Mysterious Affair at Styles,Hercule Poirot,"Hercule Poirot, Arthur Hastings, Chief Inspector Japp",veneno,mulher,Inglaterra,
+184,1924,The Mystery of Hunter’s Lodge,Hercule Poirot,Hercule Poirot,tiro,homem,,
+185,1928,The Mystery of the Blue Train,Hercule Poirot,Hercule Poirot,estragulamento,mulher,,trem
+186,1961,The Pale Horse,Mark Easterbrook,"Mark Easterbrook, Inspector Lejeune","veneno, espancamento","mulher, homem",,hotel
+187,1951,The Plymouth Express,Hercule Poirot,Hercule Poirot,esfaqueamento,mulher,,
+188,1922,The Secret Adversary,Tommy e Tuppence,Tommy e Tuppence,veneno,mulher,,
+189,1925,The Secret of Chimneys,Battle,"Anthony Cade, Superintendente Battle",tiro,homem,,hotel
+190,1929,The Seven Dials Mystery,Battle,"Eileen Brent, Jimmy Thesiger, Bill Eversleigh, Batlle","veneno, tiro",homem,,casa
+191,1931,The Sittaford Mystery,Emily Trefusis,"Emily Trefusis, Charles Enderby, Inspector Narracott",espancamento,homem,,casa
+192,1974,The Third-Floor Flat,Hercule Poirot,Hercule Poirot,tiro,mulher,,
+193,1932,The Thumb Mark of St Peter,Miss Maple,Miss Maple,envenenamento,homem,,
+194,1924,The Tragedy at Marsdon Manor,Hercule Poirot,Hercule Poirot,tiro,homem,,
+195,1932,The Tuesday Night Club,Miss Maple,Miss Maple,envenenamento,mulher,,
+196,1951,The Under Dog,Hercule Poirot,Hercule Poirot,Pancada na cabeça,homem,,casa de campo
+197,1930,The Voice in the Dark,Mr. Quin,Mr. Quin,afogamento,mulher,,
+198,1951,They Came to Baghdad,Victoria Jones,Victoria Jones,esfaqueamento,homem,bagdá,
+199,1952,They Do It with Mirrors,Miss Maple,Miss Maple,"tiro, envenenamento ",homem,,casa
+200,1966,Third Girl,Hercule Poirot,"Hercule Poirot, Ariadne Oliver","esfaqueamento, empurrado","mulher, homem",,casa
+201,1934,Three-Act Tragedy,Hercule Poirot,"Hercule Poirot, Charles Cartwright, Mr. Satterthwaite, Hermione Lytton-Gore",veneno,"homem, mulher",,festa
+202,1944,Towards Zero,Battle,"Battle, James Leach","espancamento, ataque do coração",mulher,,casa
+203,1937,Triangle at Rhodes,Hercule Poirot,Hercule Poirot,envenenamento,mulher,,hotel
+204,1934,Why Didn’t Theysk Evans?,Bobby Jones,"Bobby Jones, Frankie Derwent","empurrado, tiro, garganta cortada",homem,,
+205,1939,Yellow Iris,Hercule Poirot,Hercule Poirot,envenenamento,mulher,,
